@@ -12,5 +12,6 @@ public class HelloController {
         return ResponseEntity.ok("hello");
         // major changes
         // line1
+        // line2
     }
 }
